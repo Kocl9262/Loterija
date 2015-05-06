@@ -6,7 +6,10 @@ p {
     font-size: 40px;
 }
 .gumb {
+    height: 100px;
     width: 500px;
+    font-family: fantasy;
+    font-size: 40px;
 }
 .gumb_div {
     margin-top: 150px;
